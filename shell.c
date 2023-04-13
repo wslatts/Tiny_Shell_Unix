@@ -2,7 +2,7 @@
  * shell.c                                                               *
  *                                                                       *
  * Wendy Slattery                                                        *
- * COP 4610 - Operating Systems                                          *
+ * Operating Systems                                          *
  * 09/08/20                                                              *
  *                                                                       *
  * Project 1: Tiny Shell                                                 *
